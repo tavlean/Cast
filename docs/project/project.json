@@ -1,0 +1,17 @@
+{
+  "name": "Cast",
+  "slug": "cast",
+  "team": "Tavlean",
+  "client": null,
+  "aliases": [
+    "Cast"
+  ],
+  "purpose": "",
+  "status": "planned",
+  "linear": {
+    "project_id": "620b1714-974c-4bd5-ae47-5f64ffd970e8",
+    "url": "https://linear.app/artusion/project/cast-b6297a6ad0db"
+  },
+  "github": "tavlean/Cast",
+  "updated": "2026-08-17"
+}
